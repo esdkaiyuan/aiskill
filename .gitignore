@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env.*
+
+# Deployment secrets
+*.pem
+deploy.ps1
+ecosystem.config.cjs
